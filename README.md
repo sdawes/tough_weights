@@ -1,11 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an application to monitor the use of weights in a gym to calculate your 1 rep max. 
 
 Things you may want to cover:
 
 * Ruby version
+2.3.1
 
 * System dependencies
 
